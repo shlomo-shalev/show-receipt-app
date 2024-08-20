@@ -1,0 +1,9 @@
+{
+  "homepage": "http://shlomo-shalev.github.io/show-receipt-app",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
